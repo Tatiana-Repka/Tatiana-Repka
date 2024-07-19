@@ -15,7 +15,7 @@
 - **Ответственность (Responsibility):** Надежность и ответственность в выполнении задач.
 - **Способность обучаться (Learner):** Постоянное стремление к изучению нового и внедрению технологий.
 
-[Подробный отчет по методологии Gallup](https://github.com/TatyanaRepicheva/TatyanaRepicheva/blob/b0bb634820b8dfd370d3672702ef9dedfd30d472/Detailed%20Gallup%20Strengths%20Report.pdf)
+[Подробный отчет по методологии Gallup](https://github.com/Tatiana-Repka/TatianaRepicheva/blob/main/Detailed%20Gallup%20Strengths%20Report.pdf)
 
 ### Лидерская философия
 Как лидер (не босс), я уделяю большое внимание мотивации и развитию команды, предоставляю обратную связь и создаю комфортные условия для работы, при этом удерживая команду в фокусе на результатах. Я умею налаживать взаимодействие между бизнесом и командами разработки, обеспечивая эффективное общение и согласование целей.
@@ -29,7 +29,7 @@
 - [WhatsApp](https://api.whatsapp.com/send/?phone=79780633088)
 - [Telegram](https://t.me/QAprotest)
 - [Email](mailto:tteresh1013@gmail.com)
-- [Резюме](https://github.com/TatianaRepicheva/My-CV/blob/main/RESUME.md)
+- [Резюме](https://github.com/Tatiana-Repka/My-CV/blob/main/RESUME.md)
 
 ---
 

@@ -24,7 +24,7 @@
 - **Автор курсов:** [Курс "Тестировщик ПО с нуля"](https://course.pro-test.studio/)
 
 ### Узнайте лучше о моем опыте работы:
-- [Резюме](https://github.com/Tatiana-Repka/My-CV/blob/main/RESUME.md)
+- [Мое Резюме](https://github.com/Tatiana-Repka/My-CV/blob/main/RESUME.md)
 
 ### 📫 Как связаться со мной:
 - [LinkedIn](https://www.linkedin.com/in/tatyanarepicheva/)
